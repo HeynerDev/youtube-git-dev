@@ -1,3 +1,3 @@
 # Curso de _Git_ $ _Github_
 
-Hola soy tu amigo y desarrollador Heyner Dev
+Hola soy tu amigo y docente digital Heyner Dev
