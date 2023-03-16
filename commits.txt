@@ -1,0 +1,116 @@
+commit dd48fcba0e21e85a4bf77a2fc0edae6139df0224
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 21:09:46 2023 -0500
+
+    Agregando 2 parráfos
+
+commit fdea0565b03af75d9609bc5fa2d06eae83185856
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 21:07:21 2023 -0500
+
+    Agregando párrafo
+
+commit 49735d9a67237219d9d327b575b50e60a1d5da13
+Merge: 9cd838c 4f224ef
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 21:02:58 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 9cd838cd1e50b6a22567639f2a179fd77db02466
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 19:00:42 2023 -0500
+
+    Agregando estaciones del año con fecha de incio
+
+commit 4f224ef5488c9ae930888244736d7a6423a154eb
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 19:00:42 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 649793ba1f91772d9942c6990225955d185b3301
+Merge: 92c4e29 240cb71
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 18:53:19 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 240cb71106fa94f709d8cf964051d24262efa0bb
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 18:38:10 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 92c4e292f8e7b35258793ed3c68c8851cf53b13d
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 18:32:46 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 94d420240e862bc244145089050082e1876e3377
+Merge: 6cce837 ec997c5
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 18:17:27 2023 -0500
+
+    Merge branch 'js'
+
+commit ec997c580534341f2168f490c43b92bd150453e2
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 17:03:57 2023 -0500
+
+    Creando index.js
+
+commit 6cce837b227575c29d02aa2f5dc6d18b810ff176
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 16:54:21 2023 -0500
+
+    Creando style.css
+
+commit 7b613ffb5c54bda22d2285e5c82210194fe50739
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 16:45:18 2023 -0500
+
+    Creando index.html
+
+commit d395aad95e834e8a4bfc352515206e2a7e7015a2
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 15:46:32 2023 -0500
+
+    Ignorando archivos .exe
+
+commit 036a51859c7bd427e7221a116a38607f28215be7
+Author: Heyner Salvador <85405304+HeynerSalvador@users.noreply.github.com>
+Date:   Wed Mar 15 11:09:14 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 47b316d0f8e441716da37c9f8dffd021a44c5f6a
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 10:58:40 2023 -0500
+
+    Agregando más contenido al README
+
+commit c39cd26dca9ab53145040acd3138d331b5aadb52
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 10:46:34 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 30e6e474057b8b1d8ca971429a98c75586aeaeec
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Wed Mar 15 09:28:03 2023 -0500
+
+    Modificando el contenido inicial al README
+
+commit 5428d4c748aad5a1b9738a50008723cbbc5bbe1e
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Tue Mar 14 23:47:14 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit b1b839a53e0260bb8b1f2194ffd293bce52acc20
+Author: Heyner Salvador <heynersalv94@gmail.com>
+Date:   Tue Mar 14 23:26:52 2023 -0500
+
+    Primer commit 😃
